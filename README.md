@@ -12,9 +12,9 @@
 ---
 
 ### 참여 프로젝트 
-1. [[일단모여](https://github.com/sinhyeongi/LetsAssemble(about:blank))]
-2. [자바](https://github.com/sinhyeongi/TeamProject(about:blank))
-3. [미정]()
+1. 
+2. 
+3. 
 
 ---
 
