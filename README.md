@@ -12,9 +12,9 @@
 ---
 
 ### 참여 프로젝트 
-1. [프로젝트명2](about:blank)
-2. [프로젝트명3](about:blank)
-3. [프로젝트명4](배포링크)
+1. [[일단모여](https://github.com/sinhyeongi/LetsAssemble(about:blank))]
+2. [자바](https://github.com/sinhyeongi/TeamProject(about:blank))
+3. [미정]()
 
 ---
 
