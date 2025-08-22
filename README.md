@@ -13,8 +13,8 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 ---
 
 ### 참여 프로젝트 
-1. <a href=#>그룹 매칭 플랫폼</a>
-2. <a href=#>호텔 예약 플랫폼</a>
+1. <a href="https://github.com/sinhyeongi/LetsAssemble" style="text-decoration: none;">그룹 매칭 플랫폼</a>
+2. <a href="https://github.com/sinhyeongi/TeamProject" style="text-decoration: none;">호텔 예약 플랫폼</a>
 
 ---
 
